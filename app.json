@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "space-x-app",
+    "slug": "space-x-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
